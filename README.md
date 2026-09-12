@@ -1,4 +1,4 @@
-# factory-pulse
+
 # FactoryPulse
 
 **Real-Time Predictive Maintenance & Equipment Intelligence Platform for Smart Manufacturing**
